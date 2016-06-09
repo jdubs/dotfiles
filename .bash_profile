@@ -2,7 +2,6 @@ if [ -f $(brew --prefix)/etc/bash_completion ]; then
   . $(brew --prefix)/etc/bash_completion
 fi
 source /usr/local/etc/bash_completion.d/git-completion.bash
-source ~/.ssh/aws-teradata
 export JAVA_HOME=$(/usr/libexec/java_home)
 GIT_PS1_SHOWDIRTYSTATE=true
 export TERM="xterm-color"
