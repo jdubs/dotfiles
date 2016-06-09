@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/johntrenholm/work/builds/aws/scripts/aws-pr-test'
+let g:netrw_dirhist_2='/Users/johntrenholm/work/devops/ansible/roles/docker-registry'
+let g:netrw_dirhist_3='/Users/johntrenholm/work/dcos-vagrant/examples'
+let g:netrw_dirhist_4='/Users/johntrenholm/work/kubernetes-on-aws/uda-platform'
+let g:netrw_dirhist_5='/Users/johntrenholm/work/kubernetes-on-aws/examples'
+let g:netrw_dirhist_6='/Users/johntrenholm/work/listener-interviews'
+let g:netrw_dirhist_7='/Users/johntrenholm/work/k8-local-dev/uda-appcenter'
+let g:netrw_dirhist_8='/Users/johntrenholm/work/k8-local-dev/uda-listener'
